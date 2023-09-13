@@ -4,12 +4,18 @@
 
 Based on two datasets including:
 - Records of product price change history in September 2018 (prices.csv):
-  |Column name|Data Type|
-  |:---------|:———------|
-  |product_id|integer|
-  |old_price|integer|
-  |new_price|integer|
-  |update_at|Series|
+.. list-table::
+   :widths: 35 25
+   :header-rows: 1
+
+   * - product_id
+     - Integer
+   * - old_price
+     - integer
+   * - new_price
+     - integer
+   * - update_at
+     - Series
 - And records of product sales in September 2018 (sales.csv):
   |Column name|Data Type|
   |:---------|:———------|
