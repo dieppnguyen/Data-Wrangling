@@ -1,5 +1,4 @@
 # Data-Wrangling
-## Introduction
 
 Based on two datasets including:
 - Records of product price change history in September 2018 (prices.csv):
